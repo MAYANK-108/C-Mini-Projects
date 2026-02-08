@@ -48,6 +48,10 @@ A simple console-based program to manage student records in memory.
 - String handling
 - Basic input validation
 
+**DISCLAIMER**
+⚠️ Current version uses arrays (data not persistent).
+🚧 File-based version in progress.
+
 ## 👤 Author
 
 **Mayank Sharma**  
